@@ -8,5 +8,6 @@
             Suman
         </author>
         <content src="index.html" />
+        <gap:plugin name="org.apache.cordova.geolocation" />
         <access origin="*" />
     </widget>
